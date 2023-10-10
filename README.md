@@ -1,1 +1,2 @@
-# variabel-lekse
+# Variable homework
+Here is my answer to a variable homework where we were instructed to put variables into strings into different data types. We were asked to put in a phone number, so i created a code which randomly puts in 9 numbers, making the phone number different everytime you run the code. 
